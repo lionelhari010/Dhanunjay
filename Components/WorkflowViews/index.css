@@ -1,0 +1,31 @@
+.views-bg {
+  display: flex;
+}
+.views-content-bg {
+  width: 90vw;
+}
+.views-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  box-shadow: 1px 1px 2px 2px #888888;
+}
+.views-page-content {
+  margin-left: 20px;
+}
+.views-header-edit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.head-text {
+  color: #570c9c;
+}
+.views-edit-btn {
+  background-color: transparent;
+  font-family: "Roboto";
+  border: none;
+  color: #570c9c;
+  font-size: 18px;
+}
