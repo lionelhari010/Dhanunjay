@@ -1,0 +1,98 @@
+.user-page-bg {
+  display: flex;
+}
+.table {
+  width: 1100px;
+}
+.user-page-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.add-user-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pop-up-bg {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+.pop-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.pop-up-fields {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.pop-up-input {
+  width: 450px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  outline: none;
+  cursor: pointer;
+  padding-left: 10px;
+}
+.drop-down-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* z-index: -1; */
+}
+.drop-down {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.pop-up-btns {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.trigger-button {
+  background-color: #5f4fb9;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 15px;
+}
+.pop-up-label {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 5px;
+}
+.drop-down-options {
+  width: 200px;
+  border-radius: 5px;
+  height: 30px;
+}
+.pop-up-button {
+  border: none;
+  font-family: "Roboto";
+  margin-left: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.create-btn {
+  background-color: #5f4fb9;
+  color: #ffffff;
+}

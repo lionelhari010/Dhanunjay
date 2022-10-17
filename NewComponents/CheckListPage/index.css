@@ -1,0 +1,16 @@
+.checklist-page {
+  display: flex;
+}
+.checkList-content-page {
+  width: 80vw;
+}
+.checklist-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.checklist-btn-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "userName": "Dhanunjay",
+    "userMail": "Karomi@gmail.com",
+    "department": "Developer",
+    "security": "Normal"
+  },
+  {
+    "id": 2,
+    "userName": "Dhanunjay",
+    "userMail": "Karomi@gmail.com",
+    "department": "Developer",
+    "security": "Normal"
+  },
+  {
+    "id": 3,
+    "userName": "Dhanunjay",
+    "userMail": "Karomi@gmail.com",
+    "department": "Developer",
+    "security": "Normal"
+  }
+]

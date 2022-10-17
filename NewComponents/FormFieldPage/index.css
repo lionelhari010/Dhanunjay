@@ -1,0 +1,50 @@
+.form-fields-conatainer {
+  display: flex;
+}
+
+.field-table {
+  width: 750px;
+  margin-left: 50px;
+}
+
+.field-header {
+  display: flex;
+  align-items: center;
+}
+
+.field-logo {
+  font-size: 30px;
+  margin-top: 12px;
+  margin-left: 10px;
+}
+.edit-button {
+  border: none;
+  background-color: transparent;
+  color: #570c9c;
+  font-family: "Roboto";
+}
+/* .field-content {
+  margin-left: 15px;
+}
+.field-pop-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.field-pop-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+.pop-check-box-con {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+}
+
+.field-type-text {
+  margin-top: 0px;
+  padding-top: 0px;
+} */
+
+
